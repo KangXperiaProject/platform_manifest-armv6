@@ -192,7 +192,7 @@
   <project path="external/mksh" name="CyanogenMod/android_external_mksh" remote="cm" revision="jellybean" />
   <project path="external/mockwebserver" name="CyanogenMod/android_external_mockwebserver" remote="cm" revision="jellybean" />
   <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" remote="cm" revision="jellybean" />
-  <project path="external/nano" name="CyanogenMod/android_external_nano"remote="cm" revision="jellybean" />
+  <project path="external/nano" name="CyanogenMod/android_external_nano" remote="cm" revision="jellybean" />
   <project path="external/naver-fonts" name="CyanogenMod/android_external_naver-fonts" remote="cm" revision="jellybean" />
   <project path="external/netcat" name="CyanogenMod/android_external_netcat" remote="cm" revision="jellybean" />
   <project path="external/netperf" name="CyanogenMod/android_external_netperf" remote="cm" revision="jellybean" />
@@ -437,7 +437,7 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/sony/mint" name="CyanogenMod/android_device_sony_mint" remote="fxp" revision="jellybean" />
   <project path="device/sony/hayabusa" name="Kali-/android_device_sony_hayabusa" remote="fxp" revision="jellybean" />
   <project path="device/sony/blue-common" name="KangXperiaProject/android_device_sony_blue-common" remote="kxp" revision="jb" />
-<--  
+-->  
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x27" name="KangXperiaProject/semc-kernel-msm7x27-jb" remote="kxp" revision="jb" />
