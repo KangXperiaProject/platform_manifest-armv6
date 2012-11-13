@@ -476,7 +476,7 @@ this avoids merging conflicts from AOKP manifest
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" revision="jellybean" remote="minicm" />
-  <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
+  <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" revision="jellybean" remote="cm" />
 
 
 </manifest>
