@@ -1,6 +1,14 @@
 KangXperiaProject
 ===================
 
+Supported Armv6 Devices:
+------------------
+   -Xperia X10 Mini
+
+   -Xperia X10 Mini Pro
+
+   -Xperia X8
+
 Getting Started
 -----------------
 
