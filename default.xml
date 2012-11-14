@@ -440,7 +440,7 @@ this avoids merging conflicts from AOKP manifest
 -->  
 
 <!--Device kernels -->
-  <project path="kernel/semc/msm7x27" name="KangXperiaProject/semc-kernel-msm7x27-jb" remote="kxp" revision="jb" />
+  <project path="kernel/semc/msm7x27" name="KangXperiaProject/semc-kernel-msm7x27-jb" remote="kxp" revision="jellybean" />
   
 <!-- Vendors -->
   <project path="vendor/aokp" name="KangXperiaProject/vendor_aokp" remote="kxp" revision="jb" />
